@@ -121,9 +121,9 @@ python tts_clientv3.py --interactive
 python tts_clientv3.py --info  # информация о GPU
 ```
 
-## 📚 API Reference
+## API Reference
 
-Полная документация по API находится в файле [API Reference.md](API_REFERENCE.md).
+Полная документация по API находится в файле [API Reference.md](API Reference.md).
 
 Там описаны:
 
@@ -138,11 +138,7 @@ python tts_clientv3.py --info  # информация о GPU
 ### Голос по умолчанию
 
 <video src='https://github.com/user-attachments/assets/6a4d403c-e63f-4b9c-a5a6-1bbb8bb93a4d'/>
-
-### Клонирование голоса
-
 <video src='https://github.com/user-attachments/assets/c4a77b2f-5803-4125-9911-2f5aa2702f0a'/>
-
 
 ## Лицензия
 
