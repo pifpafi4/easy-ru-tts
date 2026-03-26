@@ -4,7 +4,7 @@ FROM ghcr.io/coqui-ai/tts-cpu
 RUN pip install flask
 
 # Копируем наш сервер
-COPY simple_serverv3.py /app/server.py
+COPY simple_server.py /app/server.py
 
 # Открываем порт
 EXPOSE 5002
