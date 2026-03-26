@@ -133,13 +133,6 @@ python tts_clientv3.py --info  # информация о GPU
 - Коды ошибок
 - Поддерживаемые языки
 
-## Примеры синтеза
-
-### Голос по умолчанию
-
-<video src='https://github.com/user-attachments/assets/6a4d403c-e63f-4b9c-a5a6-1bbb8bb93a4d'/>
-<video src='https://github.com/user-attachments/assets/c4a77b2f-5803-4125-9911-2f5aa2702f0a'/>
-
 ## Лицензия
 
 **Mozilla Public License Version 2.0**
@@ -159,3 +152,8 @@ python tts_clientv3.py --info  # информация о GPU
 - [Coqui TTS](https://github.com/coqui-ai/TTS) — за отличную модель синтеза речи
 - [Flask](https://flask.palletsprojects.com/) — за лёгкий и гибкий веб-фреймворк
 - Сообщество open source — за поддержку и развитие
+## Примеры синтеза
+### Голос по умолчанию
+
+<video src='https://github.com/user-attachments/assets/6a4d403c-e63f-4b9c-a5a6-1bbb8bb93a4d'/>
+
