@@ -1,0 +1,16 @@
+Mozilla Public License Version 2.0
+
+Этот проект распространяется под лицензией MPL-2.0.
+
+Полный текст лицензии: https://mozilla.org/MPL/2.0/
+
+---
+
+easy-ru-tts
+Copyright (c) 2026
+
+Исходный код этого проекта доступен на условиях Mozilla Public License, v. 2.0.
+
+Проект использует:
+- Coqui TTS (MPL-2.0) — https://github.com/coqui-ai/TTS
+- Flask (BSD 3-Clause) — https://github.com/pallets/flask
