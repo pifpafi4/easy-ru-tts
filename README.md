@@ -1,4 +1,4 @@
-# TTS Russian Server
+# easy-ru-tts
 
 Простой и надёжный сервер для синтеза русской речи на основе Coqui XTTS-v2. Всё работает в Docker — никаких проблем с зависимостями, Python-версиями или CUDA.
 
@@ -115,10 +115,10 @@ curl -X POST http://localhost:5002/api/tts \
 В репозитории есть удобный Python-клиент:
 
 ```bash
-python tts_clientv3.py --text "Привет, мир" --output hello.wav
-python tts_clientv3.py --text "Клонирование" --speaker voice.wav --output clone.wav
-python tts_clientv3.py --interactive
-python tts_clientv3.py --info  # информация о GPU
+python tts_client.py --text "Привет, мир" --output hello.wav
+python tts_client.py --text "Клонирование" --speaker voice.wav --output clone.wav
+python tts_client.py --interactive
+python tts_client.py --info  # информация о GPU
 ```
 
 ## API Reference
