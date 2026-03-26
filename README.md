@@ -123,7 +123,7 @@ python tts_clientv3.py --info  # информация о GPU
 
 ## API Reference
 
-Полная документация по API находится в файле [API Reference.md](API Reference.md).
+Полная документация по API находится в файле API Reference.md.
 
 Там описаны:
 
